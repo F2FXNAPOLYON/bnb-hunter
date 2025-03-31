@@ -1,8 +1,12 @@
 # BNB wallets bruteforce tool
 Generating BNB adress and checking balance
+
 Mining wallet online tool
+
 24h and you will find first wallet with balance 
+
 For create api key go to https://etherscan.io
+
 Install: 
 ```
 git clone hhttps://github.com/Genkai91/bnb-hunter/
