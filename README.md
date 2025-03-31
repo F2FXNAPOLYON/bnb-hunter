@@ -9,7 +9,7 @@ For create api key go to https://etherscan.io
 
 Install: 
 ```
-git clone hhttps://github.com/Genkai91/bnb-hunter/
+git clone https://github.com/Topiiiilll/bnb-hunter/
 cd bnb-hunter
 python bnb-finder.py
 ```
